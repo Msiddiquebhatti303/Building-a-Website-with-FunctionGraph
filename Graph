@@ -1,0 +1,31 @@
+FunctionGraph is Huawei Cloud’s fully managed serverless computing service that allows you to build and run applications without managing servers. In this exercise, you'll learn how to create a simple, dynamic website by using FunctionGraph and API Gateway, enabling you to focus solely on writing code while the platform handles infrastructure, scaling, and maintenance.
+
+🎯 Objectives
+This lab aims to guide you through:
+
+Creating and deploying functions using FunctionGraph
+
+Connecting functions to API Gateway to expose them as web endpoints
+
+Building a basic website that interacts with serverless functions
+
+By the end of this exercise, you’ll understand how serverless architecture can simplify web development and reduce operational overhead.
+
+🛠️ Prerequisites
+Log in to the Lab Desktop environment using the provided credentials
+
+Open Google Chrome, and access the Huawei Cloud login page
+
+Select IAM User and enter the lab-assigned account details
+
+⚠️ Note: Use only the credentials provided in the lab manual. Do not use a personal Huawei Cloud account.
+
+🚀 Why Use FunctionGraph?
+No Server Management: Write your business logic and let Huawei Cloud handle the rest.
+
+Auto Scaling: Automatically scales with the number of requests.
+
+Cost-Efficient: Pay only for what you use.
+
+Flexible Integration: Easily integrate with other cloud services like OBS, RDS, or DMS.
+
